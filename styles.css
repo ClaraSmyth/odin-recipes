@@ -27,6 +27,7 @@ h2 {
 
 img {
     height: auto;
+    width: 100%;
     max-width: 500px;
     border-radius:50%;
 }
@@ -36,12 +37,20 @@ img {
     text-align: center;
     border-radius: 20%;
     padding: 10px;
-    margin: 30px;
+    margin: 0 10px;
 }
 
 ul {
     list-style: none;
     padding: 0;
+}
+
+ol {
+    padding: 0;
+}
+
+li {
+    padding: 5px;
 }
 
 a {
