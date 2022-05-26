@@ -16,12 +16,18 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 48px;
 }
+
+h2 {
+    text-decoration: underline;
+    font-size: 32px;
+}
+
 
 img {
     height: auto;
-    width: 500px;
+    max-width: 500px;
     border-radius:50%;
 }
 
@@ -35,6 +41,7 @@ img {
 
 ul {
     list-style: none;
+    padding: 0;
 }
 
 a {
