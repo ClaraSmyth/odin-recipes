@@ -25,7 +25,7 @@ To see the assignment details - [Click Here](https://www.theodinproject.com/less
 
 #### Icons
 
-[Simple Icons](https://simpleicons.org/)
+-   [Simple Icons](https://simpleicons.org/)
 
 ## Gallery
 
