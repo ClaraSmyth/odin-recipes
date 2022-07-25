@@ -33,6 +33,6 @@ To see the assignment details - [Click Here](https://www.theodinproject.com/less
 
 ![Image of Project](./readme-assets/homepage.png)
 
-#### Menu page
+#### Recipe page
 
 ![Image of Project](./readme-assets/recipe-page.png)
